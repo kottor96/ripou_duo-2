@@ -1,0 +1,11 @@
+footer{
+
+    background-color: aqua;
+}
+footer > p {
+    color: blue;
+}
+footer > h5{
+    font-size: x-large;
+    color: brown;
+}
